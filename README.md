@@ -8,3 +8,5 @@ Course from Cisco Networking Academy [Networking Basics](https://skillsforall.co
 
 - [10.2.3](./practices/10.2.3/README.md)
 - [11.2.3](./practices/11.2.3/README.md)
+- [16.5.3](./practices/16.5.3/README.md)
+- [16.6.4](./practices/16.6.4/README.md)
