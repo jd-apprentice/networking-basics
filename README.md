@@ -11,3 +11,4 @@ Course from Cisco Networking Academy [Networking Basics](https://skillsforall.co
 - [16.5.3](./practices/16.5.3/README.md)
 - [16.6.4](./practices/16.6.4/README.md)
 - [17.1.6](./practices/17.1.6/README.md)
+- [4.4.4](./practices/configure-wireless-router-and-client/README.md)
